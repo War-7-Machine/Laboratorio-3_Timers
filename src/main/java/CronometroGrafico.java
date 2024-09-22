@@ -37,7 +37,7 @@ public class CronometroGrafico extends JFrame {
         JButton btnConfigurar = new JButton("Configurar Alarma");
         add(btnConfigurar);
 
-        // Campos para la configuración de la alarma
+        // Configuración de la alarma
         JTextField txtDelay = new JTextField(5);
         JTextField txtIntervalo = new JTextField(5);
         JTextField txtNumeroIntervalos = new JTextField(5);
